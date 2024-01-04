@@ -11,7 +11,7 @@ const firebaseConfig = {
   projectId: "wakar-cart",
   storageBucket: "wakar-cart.appspot.com",
   messagingSenderId: "773547913009",
-  appId: "1:773547913009:web:0727f335cfbbc8c9180a10"",
+  appId: "1:773547913009:web:0727f335cfbbc8c9180a10",
   measurementId: "G-8JFYLZQY2X"
 };
 
