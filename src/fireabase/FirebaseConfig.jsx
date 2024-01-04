@@ -7,7 +7,7 @@ import {getAuth} from 'firebase/auth';
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyCbXl24Y46nqjcXGLfeTH43mU_0VHe-HnA",
-  authDomain: "wcart-dyvm.vercel.app",
+  authDomain: "wakar-cart.firebaseapp.com",
   projectId: "wakar-cart",
   storageBucket: "wakar-cart.appspot.com",
   messagingSenderId: "773547913009",
